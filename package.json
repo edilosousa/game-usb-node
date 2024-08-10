@@ -1,0 +1,16 @@
+{
+  "name": "game-usb",
+  "version": "1.0.0",
+  "description": "Interface human device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "author": "Édilo Silva",
+  "license": "ISC",
+  "dependencies": {
+    "node-hid": "^3.1.0"
+  }
+}
